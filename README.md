@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GreyVish 
-- 
+
 I am a security enthusiast and my work is my Ikigai.
 ![whatisiikigaii](https://user-images.githubusercontent.com/13136378/203900928-a46cc39e-898c-45d1-a0c3-22709a8ed2cd.gif)
 
@@ -18,9 +18,8 @@ It gives me a great deal of satisfaction to know I have delivered a lasting impa
 - Member of ISACA, ISC2
 
 - 📫 How to reach me 
-- 
-- https://www.linkedin.com/in/vishalguptac/
-- 
+https://www.linkedin.com/in/vishalguptac/
+
 <!---
 GreyVish/GreyVish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
