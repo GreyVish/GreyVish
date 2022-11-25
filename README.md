@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GreyVish 
 - 
 I am a security enthusiast and my work is my Ikigai.
-![image](https://user-images.githubusercontent.com/13136378/203900051-620f93db-1224-4aaa-a31c-eb5824e361b2.png)
+![whatisiikigaii](https://user-images.githubusercontent.com/13136378/203900928-a46cc39e-898c-45d1-a0c3-22709a8ed2cd.gif)
 
 My diverse cybersecurity domain experience serves in uplifting the culture change and executing a risk-based information security programme. 
 It gives me a great deal of satisfaction to know I have delivered a lasting impact on the organisation cyberculture that ultimately helps them in achieving better security, compliance and trust.
