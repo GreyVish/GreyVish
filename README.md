@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:163C73,100:6D4AFF&height=220&section=header&text=VISHAL%20KUMAR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CYBERSECURITY%20LEADERSHIP%20%7C%20GRC%20%7C%20SECURITY%20INNOVATION&descSize=16&descAlignY=58" width="100%"/>
 
-### 🛡️ Cybersecurity Leader · GRC Strategist · Security Enabler
+### Cybersecurity Leader · GRC Strategist · Security Enabler
 
 **Turning security complexity into business confidence.**
 
@@ -18,7 +18,7 @@
 ```text
 ┌─[vishal@security-cube]─[~/about]
 └──╼ $ whoami
-Cybersecurity leader | Global Head of Cybersecurity GRC | CISO Delegate
+Cybersecurity leader | Global Head of Cybersecurity GRC
 Builder of practical, risk-based security programmes
 Curious about the intersection of people, process, technology & AI
 
@@ -27,7 +27,7 @@ Curious about the intersection of people, process, technology & AI
 Enable the business. Strengthen trust. Make security usable.
 ```
 
-## 👋 About Me
+## About Me
 
 I am a Melbourne-based cybersecurity leader focused on making security an enabler of business outcomes—not just a compliance exercise. My experience spans **cybersecurity governance, enterprise risk, assurance, incident response, vulnerability management, security culture, and technical security operations**.
 
@@ -35,9 +35,9 @@ Currently serving as **Global Head of Cybersecurity GRC and CISO Delegate at Han
 
 My approach is rooted in an idea that has guided my career: **security is most effective when people, processes and technology work together**.
 
-## 🎯 Areas of Focus
+## Areas of Focus
 
-| 🏛️ Strategy & Governance | 🔎 Security Operations | 🤖 Automation & Innovation |
+| Strategy & Governance | 🔎 Security Operations | 🤖 Automation & Innovation |
 | :--- | :--- | :--- |
 | Security strategy and roadmaps | Vulnerability management | AI-assisted risk workflows |
 | ISO 27001 / NIST CSF 2.0 | Incident response & resilience | Power Platform automation |
@@ -45,7 +45,7 @@ My approach is rooted in an idea that has guided my career: **security is most e
 | Enterprise & third-party risk | Identity and access governance | Practical security education |
 | Policy governance & culture | Security testing & remediation | Security Cube |
 
-## 🚀 Selected Impact
+## Selected Impact
 
 - **Assurance transformation:** Helped increase security compliance testing coverage from approximately **10% to 100%**.
 - **Incident leadership:** Led coordination and recovery during a high-impact security incident while acting as interim CISO.
@@ -55,9 +55,9 @@ My approach is rooted in an idea that has guided my career: **security is most e
 
 > Selected examples are intentionally high-level and exclude confidential organisational details.
 
-## 🧩 What I'm Building
+## What I'm Building
 
-### 🧊 [Security Cube](https://securitycube.com.au/)
+### [Security Cube](https://securitycube.com.au/)
 
 Exploring a more interactive approach to **cybersecurity learning, governance and maturity assessment**—helping organisations understand their security posture through connected domains, functions, people, processes and technology.
 
@@ -70,7 +70,7 @@ Exploring a more interactive approach to **cybersecurity learning, governance an
 
 *Projects represent interests and work in progress; not all are publicly released products.*
 
-## 🧠 My Security Philosophy
+## My Security Philosophy
 
 ```mermaid
 flowchart TD
@@ -84,7 +84,7 @@ flowchart TD
   F --> G["Resilience • Assurance • Confidence"]
 ```
 
-## 🧰 Frameworks, Platforms & Capabilities
+## Frameworks, Platforms & Capabilities
 
 <div align="center">
 
@@ -104,7 +104,7 @@ flowchart TD
 
 </div>
 
-## 💼 Professional Journey
+## Professional Journey
 
 | Period | Role | Focus |
 | --- | --- | --- |
@@ -112,14 +112,14 @@ flowchart TD
 | **2022–2023** | **Security Operations Analyst & Penetration Test Coordinator**, Tabcorp / TLC Healthcare | Security operations, testing and compliance |
 | **2022–2025** | **Cybersecurity Bootcamp Instructor**, Monash edX | Teaching and mentoring cybersecurity learners |
 
-## 🎓 Education & Community
+## Education & Community
 
-- 🎓 **Master's in Information Security**, RMIT University
-- 🧑‍🏫 Cybersecurity educator, mentor and lifelong learner
-- 🧭 Interested in **psychology, behaviour, security culture and human-centred security**
-- 💬 Happy to connect about **cybersecurity leadership, GRC transformation, security education and AI applications**
+- **Master's in Information Security**, RMIT University
+- Cybersecurity educator, mentor and lifelong learner
+- Interested in **psychology, behaviour, security culture and human-centred security**
+- Happy to connect about **cybersecurity leadership, GRC transformation, security education and AI applications**
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
